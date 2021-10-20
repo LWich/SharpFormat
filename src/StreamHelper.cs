@@ -11,5 +11,11 @@ namespace CsharpFormat.src
             stream.WriteByte((byte) (value >> 8));
             stream.WriteByte((byte) value);
         }
+
+        public static void WriteLittleEndianInt16(Stream stream, ushort value)
+        {
+            stream.WriteByte((byte) (value >> 8));
+            stream.WriteByte((byte) value);
+        }
     }
 }

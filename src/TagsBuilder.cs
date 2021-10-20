@@ -4,6 +4,7 @@ namespace CsharpFormat.src
     public class TagsBuilder : IEnumerable
     {
         static ITag[] Tags = new ITag[0];
+
         IEnumerator IEnumerable.GetEnumerator()
         {
             foreach(var tag in Tags)
@@ -29,6 +30,11 @@ namespace CsharpFormat.src
                 bait[i] = Tags[i];
             Tags = null;
             Tags = bait;
+        }
+
+        public ITag this[int i]
+        {
+            get=>Tags[i];
         }
     }
 }

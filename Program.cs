@@ -2,6 +2,8 @@
 using CsharpFormat.src.Colors;
 using CsharpFormat.src.Header;
 using CsharpFormat.src;
+using CsharpFormat.src.Create;
+using System.IO;
 
 namespace CsharpFormat
 {
@@ -9,12 +11,10 @@ namespace CsharpFormat
     {
         static void Main(string[] args)
         {
-            Head head = new Head();
-            TagsBuilder tagsBuilder = new TagsBuilder();
-            tagsBuilder.Add(head);
-            foreach(var tag in tagsBuilder)
+            CSFBuilder builder = new CSFBuilder(new Head(100, 100, ColorType.RGB, 2));
+            using(FileStream fs = new FileStream("photo.csf", FileMode.OpenOrCreate))
             {
-                Console.WriteLine(tag);
+                builder.Create(fs);
             }
         }
     }
