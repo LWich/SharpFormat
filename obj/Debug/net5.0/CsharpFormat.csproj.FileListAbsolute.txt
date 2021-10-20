@@ -1,0 +1,16 @@
+/home/lwich/CSharp/Proj/CsharpFormat/bin/Debug/net5.0/CsharpFormat
+/home/lwich/CSharp/Proj/CsharpFormat/bin/Debug/net5.0/CsharpFormat.deps.json
+/home/lwich/CSharp/Proj/CsharpFormat/bin/Debug/net5.0/CsharpFormat.runtimeconfig.json
+/home/lwich/CSharp/Proj/CsharpFormat/bin/Debug/net5.0/CsharpFormat.runtimeconfig.dev.json
+/home/lwich/CSharp/Proj/CsharpFormat/bin/Debug/net5.0/CsharpFormat.dll
+/home/lwich/CSharp/Proj/CsharpFormat/bin/Debug/net5.0/ref/CsharpFormat.dll
+/home/lwich/CSharp/Proj/CsharpFormat/bin/Debug/net5.0/CsharpFormat.pdb
+/home/lwich/CSharp/Proj/CsharpFormat/obj/Debug/net5.0/CsharpFormat.csproj.AssemblyReference.cache
+/home/lwich/CSharp/Proj/CsharpFormat/obj/Debug/net5.0/CsharpFormat.GeneratedMSBuildEditorConfig.editorconfig
+/home/lwich/CSharp/Proj/CsharpFormat/obj/Debug/net5.0/CsharpFormat.AssemblyInfoInputs.cache
+/home/lwich/CSharp/Proj/CsharpFormat/obj/Debug/net5.0/CsharpFormat.AssemblyInfo.cs
+/home/lwich/CSharp/Proj/CsharpFormat/obj/Debug/net5.0/CsharpFormat.csproj.CoreCompileInputs.cache
+/home/lwich/CSharp/Proj/CsharpFormat/obj/Debug/net5.0/CsharpFormat.dll
+/home/lwich/CSharp/Proj/CsharpFormat/obj/Debug/net5.0/ref/CsharpFormat.dll
+/home/lwich/CSharp/Proj/CsharpFormat/obj/Debug/net5.0/CsharpFormat.pdb
+/home/lwich/CSharp/Proj/CsharpFormat/obj/Debug/net5.0/CsharpFormat.genruntimeconfig.cache
